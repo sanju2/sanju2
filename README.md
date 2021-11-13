@@ -2,9 +2,7 @@
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img
     src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28" /></h3>
 
-<div align="center" width="50">
-
-<img src="images/img.gif" alt="Welcome!" width="300"/>
+<img src="images/img.gif" alt="Welcome!" align="center" width="300"/>
 
 ## 📖 About me
 
