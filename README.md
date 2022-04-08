@@ -7,13 +7,11 @@
 ## 📖 About me
 
 * 👋 Hi, I’m Lasantha Sanjeewa Silva
-* 💻 I'm a Trainee DevOps Engineer
-* 🎨 I'm a self-taught about Cloud Computing
-* 🎓 I'm a Computer Science student (graduating in 2022)
+* 💻 I'm a Associate DevOps Engineer
+* 🎓 I'm a Computer Science Graduate
 * 🌐 You can see some of my projects on [my portfolio](https://sanju2.github.io/)
 * 👀 I’m currently working on Cloud/DevOps Projects
-* 🌱 I’m currently learning AWS, Azure, Kubernetes, Docker, Terraform
-* 💞️ I’m looking to collaborate on opensource projects
+* 🌱 I’m currently learning AWS, Azure, OCI, GCP, Kubernetes, Docker, Terraform
 * 📫 How to reach me lsanjeewa947@gmail.com
 
 ## 👨‍💻 Technologies
