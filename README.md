@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lasantha Sanjeewa Silva</h1>
+<h1 align="center">Hi 👋, I'm Lasantha Sanjeewa</h1>
 <h3 align="center">DevOps Engineer💻 AWS Community Builder🚀</h3>
 
 - 🔭 I’m currently working on **Azure, AWS**
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/lasanthasilva96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lasanthasilva96" height="30" width="40" /></a>
+<a href="https://x.com/LasanthaSilva96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lasanthasilva96" height="30" width="40" /></a>
 <a href="https://dev.to/lasanthasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lasanthasilva" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCUo3VtsWbCIH1twIsJbVuPg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lasantha sanjeewa silva" height="30" width="40" /></a>
 </p>
@@ -29,5 +29,3 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanju2&show_icons=true&locale=en" alt="sanju2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanju2&" alt="sanju2" /></p>
