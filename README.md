@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lasantha Sanjeewa</h1>
+<h1 align="center">Hi 👋, I'm Lasantha Sanjeewa Silva</h1>
 <h3 align="center">DevOps Engineer💻 AWS Community Builder🚀</h3>
 
 - 🔭 I’m currently working on **Azure, AWS**
 
 - 👯 I’m looking to collaborate on **DevOps & Cloud Projects**
 
-- 👨‍💻 All of my projects are available at [https://lasanthasilva.tech](https://lasanthasilva.tech)
+- 👨‍💻 All of my projects are available at [https://lasanthasilva.tech](https://sanju2.github.io/blogsite/)
 
 - 📝 I regularly write articles on [https://medium.com/@lasanthasilva](https://medium.com/@lasanthasilva)
 
