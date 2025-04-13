@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **DevOps & Cloud Projects**
 
-- 👨‍💻 All of my projects are available at [https://sanju2.github.io/blogsite](https://sanju2.github.io/blogsite/)
+- 👨‍💻 All of my projects are available at [https://sanju2.github.io/blogsite](https://sanju2.github.io/blogs)
 
 - 📝 I regularly write articles on [https://medium.com/@lasanthasilva](https://medium.com/@lasanthasilva)
 
