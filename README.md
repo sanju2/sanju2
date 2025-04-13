@@ -11,8 +11,6 @@
 
 - 📫 How to reach me [https://www.linkedin.com/in/lasanthasilva](https://www.linkedin.com/in/lasanthasilva)
 
-- ⚡ Fun fact **DevOps With Lasantha**
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://x.com/LasanthaSilva96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lasanthasilva96" height="30" width="40" /></a>
